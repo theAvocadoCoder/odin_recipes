@@ -9,16 +9,8 @@ a:hover {
 
 /* Classes */
 
-.text-center {
-  text-align: center;
-}
-
-.text-black {
-  color: black;
-}
-
-.h-screen {
-  height: 100vh;
+.bg-blue-10 {
+  background-color: aliceblue;
 }
 
 .flex {
@@ -29,10 +21,31 @@ a:hover {
   flex-direction: column;
 }
 
+.h-screen {
+  height: 100vh;
+}
+
 .items-center {
   align-items: center;
 }
 
+.justify-between {
+  justify-content: space-between;
+}
+
 .justify-center {
   justify-content: center;
+}
+
+.mx-5 {
+  margin-left: 5rem;
+  margin-right: 5rem;
+}
+
+.text-black {
+  color: black;
+}
+
+.text-center {
+  text-align: center;
 }
