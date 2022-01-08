@@ -1,0 +1,38 @@
+/* Defaults */
+a {
+  text-decoration: none;
+  color: inherit;
+}
+a:hover {
+  color: teal;
+}
+
+/* Classes */
+
+.text-center {
+  text-align: center;
+}
+
+.text-black {
+  color: black;
+}
+
+.h-screen {
+  height: 100vh;
+}
+
+.flex {
+  display: flex;
+}
+
+.flex-col {
+  flex-direction: column;
+}
+
+.items-center {
+  align-items: center;
+}
+
+.justify-center {
+  justify-content: center;
+}
